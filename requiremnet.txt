@@ -1,0 +1,11 @@
+The Python library required for this project:
+
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+
+
